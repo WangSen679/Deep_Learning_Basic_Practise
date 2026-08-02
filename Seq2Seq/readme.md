@@ -1,0 +1,5 @@
+# 用Encoder和Decoder实现一个简单的英式->中式的翻译
+分别使用左padding，右padding和在encoder中gather三种方式，对比最终的训练结果。
+实验发现三种padding都能得到很好的test结果
+## 实验遇到问题
+有个版本遇到了loss很低但test结果极差，检查发现是训练和推理时的padding方式不一致，训练时使用了右padding，但在推理时没有padding，导致模型学到了右padding的规律但在无padding的情况出错。当训练和推理都是左（右）padding或者训练时右padding但gather出句子结尾且推理时无padding，都能得到很好的结果。
