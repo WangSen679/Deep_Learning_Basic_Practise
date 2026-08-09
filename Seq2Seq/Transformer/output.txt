@@ -1,0 +1,1538 @@
+- Source: henry has six white windows
+- Target: 亨利 有 六 个 白色 窗户
+- Got:    亨利 有 六 个 白色 窗户
+
+- Source: henry has two white apples
+- Target: 亨利 有 两 个 白色 苹果
+- Got:    亨利 有 两 个 白色 苹果
+
+- Source: there is a red horse behind the box
+- Target: 盒子 后面 有 一 只 红色 马
+- Got:    盒子 后面 有 一 只 红色 马
+
+- Source: charlie has four red boxs
+- Target: 查理 有 四 个 红色 盒子
+- Got:    查理 有 四 个 红色 盒子
+
+- Source: there are three yellow ducks next to the door
+- Target: 门 旁边 有 三 只 黄色 鸭子
+- Got:    门 旁边 有 三 只 黄色 鸭子
+
+- Source: there are two quiet horses under the door
+- Target: 门 下面 有 两 只 安静 马
+- Got:    门 下面 有 两 只 安静 马
+
+- Source: fiona has one brown car
+- Target: 菲奥娜 有 一 个 棕色 汽车
+- Got:    菲奥娜 有 一 个 棕色 汽车
+
+- Source: george has six yellow tables
+- Target: 乔治 有 六 个 黄色 桌子
+- Got:    乔治 有 六 个 黄色 桌子
+
+- Source: bob has six green chairs
+- Target: 鲍勃 有 六 个 绿色 椅子
+- Got:    鲍勃 有 六 个 绿色 椅子
+
+- Source: bob has five red chairs
+- Target: 鲍勃 有 五 个 红色 椅子
+- Got:    鲍勃 有 五 个 红色 椅子
+
+- Source: there is a green dog next to the box
+- Target: 盒子 旁边 有 一 只 绿色 狗
+- Got:    盒子 旁边 有 一 只 绿色 狗
+
+- Source: charlie has four white windows
+- Target: 查理 有 四 个 白色 窗户
+- Got:    查理 有 四 个 白色 窗户
+
+- Source: fiona has three brown apples
+- Target: 菲奥娜 有 三 个 棕色 苹果
+- Got:    菲奥娜 有 三 个 棕色 苹果
+
+- Source: alice has five brown trees
+- Target: 爱丽丝 有 五 个 棕色 树
+- Got:    爱丽丝 有 五 个 棕色 树
+
+- Source: george has six blue doors
+- Target: 乔治 有 六 个 蓝色 门
+- Got:    乔治 有 六 个 蓝色 门
+
+- Source: henry has two green cars
+- Target: 亨利 有 两 个 绿色 汽车
+- Got:    亨利 有 两 个 绿色 汽车
+
+- Source: david has two white windows
+- Target: 大卫 有 两 个 白色 窗户
+- Got:    大卫 有 两 个 白色 窗户
+
+- Source: there are three yellow lions next to the table
+- Target: 桌子 旁边 有 三 只 黄色 狮子
+- Got:    桌子 旁边 有 三 只 黄色 狮子
+
+- Source: there are two quiet cows under the table
+- Target: 桌子 下面 有 两 只 安静 牛
+- Got:    桌子 下面 有 两 只 安静 牛
+
+- Source: there are two yellow dogs near the apple
+- Target: 苹果 附近 有 两 只 黄色 狗
+- Got:    苹果 附近 有 两 只 黄色 狗
+
+- Source: there are four quiet birds near the apple
+- Target: 苹果 附近 有 四 只 安静 鸟
+- Got:    苹果 附近 有 四 只 安静 鸟
+
+- Source: there are six quiet cows in front of the window
+- Target: 窗户 前面 有 六 只 安静 牛
+- Got:    窗户 前面 有 六 只 安静 牛
+
+- Source: george has one green table
+- Target: 乔治 有 一 个 绿色 桌子
+- Got:    乔治 有 一 个 绿色 桌子
+
+- Source: there is a quiet lion in front of the box
+- Target: 盒子 前面 有 一 只 安静 狮子
+- Got:    盒子 前面 有 一 只 安静 狮子
+
+- Source: henry has five green trees
+- Target: 亨利 有 五 个 绿色 树
+- Got:    亨利 有 五 个 绿色 树
+
+- Source: alice has six white cars
+- Target: 爱丽丝 有 六 个 白色 汽车
+- Got:    爱丽丝 有 六 个 白色 汽车
+
+- Source: david has six green cars
+- Target: 大卫 有 六 个 绿色 汽车
+- Got:    大卫 有 六 个 绿色 汽车
+
+- Source: there is a brown duck on the door
+- Target: 门 上面 有 一 只 棕色 鸭子
+- Got:    门 上面 有 一 只 棕色 鸭子
+
+- Source: there is a brown duck near the door
+- Target: 门 附近 有 一 只 棕色 鸭子
+- Got:    门 附近 有 一 只 棕色 鸭子
+
+- Source: bob has one blue table
+- Target: 鲍勃 有 一 个 蓝色 桌子
+- Got:    鲍勃 有 一 个 蓝色 桌子
+
+- Source: there are two black cats next to the table
+- Target: 桌子 旁边 有 两 只 黑色 猫
+- Got:    桌子 旁边 有 两 只 黑色 猫
+
+- Source: there is a brown dog under the apple
+- Target: 苹果 下面 有 一 只 棕色 狗
+- Got:    苹果 下面 有 一 只 棕色 狗
+
+- Source: david has three white doors
+- Target: 大卫 有 三 个 白色 门
+- Got:    大卫 有 三 个 白色 门
+
+- Source: henry has five green cars
+- Target: 亨利 有 五 个 绿色 汽车
+- Got:    亨利 有 五 个 绿色 汽车
+
+- Source: charlie has five green windows
+- Target: 查理 有 五 个 绿色 窗户
+- Got:    查理 有 五 个 绿色 窗户
+
+- Source: there are two quiet dogs under the apple
+- Target: 苹果 下面 有 两 只 安静 狗
+- Got:    苹果 下面 有 两 只 安静 狗
+
+- Source: there are three red horses behind the table
+- Target: 桌子 后面 有 三 只 红色 马
+- Got:    桌子 后面 有 三 只 红色 马
+
+- Source: there is a green cow next to the window
+- Target: 窗户 旁边 有 一 只 绿色 牛
+- Got:    窗户 旁边 有 一 只 绿色 牛
+
+- Source: there are five yellow bears behind the table
+- Target: 桌子 后面 有 五 只 黄色 熊
+- Got:    桌子 后面 有 五 只 黄色 熊
+
+- Source: bob has two white cars
+- Target: 鲍勃 有 两 个 白色 汽车
+- Got:    鲍勃 有 两 个 白色 汽车
+
+- Source: emma has one brown window
+- Target: 艾玛 有 一 个 棕色 窗户
+- Got:    艾玛 有 一 个 棕色 窗户
+
+- Source: charlie has three brown tables
+- Target: 查理 有 三 个 棕色 桌子
+- Got:    查理 有 三 个 棕色 桌子
+
+- Source: there are five quiet bears next to the table
+- Target: 桌子 旁边 有 五 只 安静 熊
+- Got:    桌子 旁边 有 五 只 安静 熊
+
+- Source: there are two quiet bears in front of the window
+- Target: 窗户 前面 有 两 只 安静 熊
+- Got:    窗户 前面 有 两 只 安静 熊
+
+- Source: bob has two black tables
+- Target: 鲍勃 有 两 个 黑色 桌子
+- Got:    鲍勃 有 两 个 黑色 桌子
+
+- Source: george has three quiet windows
+- Target: 乔治 有 三 个 安静 窗户
+- Got:    乔治 有 三 个 安静 窗户
+
+- Source: george has five yellow boxs
+- Target: 乔治 有 五 个 黄色 盒子
+- Got:    乔治 有 五 个 黄色 盒子
+
+- Source: there is a yellow cat on the chair
+- Target: 椅子 上面 有 一 只 黄色 猫
+- Got:    椅子 上面 有 一 只 黄色 猫
+
+- Source: there are five blue lions behind the box
+- Target: 盒子 后面 有 五 只 蓝色 狮子
+- Got:    盒子 后面 有 五 只 蓝色 狮子
+
+- Source: fiona has four quiet chairs
+- Target: 菲奥娜 有 四 个 安静 椅子
+- Got:    菲奥娜 有 四 个 安静 椅子
+
+- Source: george has two brown boxs
+- Target: 乔治 有 两 个 棕色 盒子
+- Got:    乔治 有 两 个 棕色 盒子
+
+- Source: charlie has five white doors
+- Target: 查理 有 五 个 白色 门
+- Got:    查理 有 五 个 白色 门
+
+- Source: bob has five quiet doors
+- Target: 鲍勃 有 五 个 安静 门
+- Got:    鲍勃 有 五 个 安静 门
+
+- Source: there are three black dogs near the window
+- Target: 窗户 附近 有 三 只 黑色 狗
+- Got:    窗户 附近 有 三 只 黑色 狗
+
+- Source: david has one quiet box
+- Target: 大卫 有 一 个 安静 盒子
+- Got:    大卫 有 一 个 安静 盒子
+
+- Source: george has four red boxs
+- Target: 乔治 有 四 个 红色 盒子
+- Got:    乔治 有 四 个 红色 盒子
+
+- Source: there are three green bears on the car
+- Target: 汽车 上面 有 三 只 绿色 熊
+- Got:    汽车 上面 有 三 只 绿色 熊
+
+- Source: there are six white cats next to the apple
+- Target: 苹果 旁边 有 六 只 白色 猫
+- Got:    苹果 旁边 有 六 只 白色 猫
+
+- Source: there are two blue horses in front of the chair
+- Target: 椅子 前面 有 两 只 蓝色 马
+- Got:    椅子 前面 有 两 只 蓝色 马
+
+- Source: there is a yellow dog near the table
+- Target: 桌子 附近 有 一 只 黄色 狗
+- Got:    桌子 附近 有 一 只 黄色 狗
+
+- Source: there are two brown horses in front of the table
+- Target: 桌子 前面 有 两 只 棕色 马
+- Got:    桌子 前面 有 两 只 棕色 马
+
+- Source: there are three red bears on the car
+- Target: 汽车 上面 有 三 只 红色 熊
+- Got:    汽车 上面 有 三 只 红色 熊
+
+- Source: there are two yellow horses under the door
+- Target: 门 下面 有 两 只 黄色 马
+- Got:    门 下面 有 两 只 黄色 马
+
+- Source: david has five quiet apples
+- Target: 大卫 有 五 个 安静 苹果
+- Got:    大卫 有 五 个 安静 苹果
+
+- Source: there are five red dogs behind the window
+- Target: 窗户 后面 有 五 只 红色 狗
+- Got:    窗户 后面 有 五 只 红色 狗
+
+- Source: there is a red cow behind the door
+- Target: 门 后面 有 一 只 红色 牛
+- Got:    门 后面 有 一 只 红色 牛
+
+- Source: there are five white dogs under the box
+- Target: 盒子 下面 有 五 只 白色 狗
+- Got:    盒子 下面 有 五 只 白色 狗
+
+- Source: emma has two black chairs
+- Target: 艾玛 有 两 个 黑色 椅子
+- Got:    艾玛 有 两 个 黑色 椅子
+
+- Source: fiona has four white windows
+- Target: 菲奥娜 有 四 个 白色 窗户
+- Got:    菲奥娜 有 四 个 白色 窗户
+
+- Source: alice has four white cars
+- Target: 爱丽丝 有 四 个 白色 汽车
+- Got:    爱丽丝 有 四 个 白色 汽车
+
+- Source: alice has six red trees
+- Target: 爱丽丝 有 六 个 红色 树
+- Got:    爱丽丝 有 六 个 红色 树
+
+- Source: there are four white lions behind the chair
+- Target: 椅子 后面 有 四 只 白色 狮子
+- Got:    椅子 后面 有 四 只 白色 狮子
+
+- Source: there are three red bears near the box
+- Target: 盒子 附近 有 三 只 红色 熊
+- Got:    盒子 附近 有 三 只 红色 熊
+
+- Source: there are five quiet dogs under the window
+- Target: 窗户 下面 有 五 只 安静 狗
+- Got:    窗户 下面 有 五 只 安静 狗
+
+- Source: david has three white apples
+- Target: 大卫 有 三 个 白色 苹果
+- Got:    大卫 有 三 个 白色 苹果
+
+- Source: emma has six white chairs
+- Target: 艾玛 有 六 个 白色 椅子
+- Got:    艾玛 有 六 个 白色 椅子
+
+- Source: bob has six brown cars
+- Target: 鲍勃 有 六 个 棕色 汽车
+- Got:    鲍勃 有 六 个 棕色 汽车
+
+- Source: david has six blue cars
+- Target: 大卫 有 六 个 蓝色 汽车
+- Got:    大卫 有 六 个 蓝色 汽车
+
+- Source: emma has four red chairs
+- Target: 艾玛 有 四 个 红色 椅子
+- Got:    艾玛 有 四 个 红色 椅子
+
+- Source: henry has six white cars
+- Target: 亨利 有 六 个 白色 汽车
+- Got:    亨利 有 六 个 白色 汽车
+
+- Source: bob has six quiet trees
+- Target: 鲍勃 有 六 个 安静 树
+- Got:    鲍勃 有 六 个 安静 树
+
+- Source: there are six brown cats under the window
+- Target: 窗户 下面 有 六 只 棕色 猫
+- Got:    窗户 下面 有 六 只 棕色 猫
+
+- Source: there are five red lions near the chair
+- Target: 椅子 附近 有 五 只 红色 狮子
+- Got:    椅子 附近 有 五 只 红色 狮子
+
+- Source: there are four brown birds near the box
+- Target: 盒子 附近 有 四 只 棕色 鸟
+- Got:    盒子 附近 有 四 只 棕色 鸟
+
+- Source: david has one black chair
+- Target: 大卫 有 一 个 黑色 椅子
+- Got:    大卫 有 一 个 黑色 椅子
+
+- Source: there is a red duck in front of the apple
+- Target: 苹果 前面 有 一 只 红色 鸭子
+- Got:    苹果 前面 有 一 只 红色 鸭子
+
+- Source: there are four blue bears behind the door
+- Target: 门 后面 有 四 只 蓝色 熊
+- Got:    门 后面 有 四 只 蓝色 熊
+
+- Source: there are six black lions under the window
+- Target: 窗户 下面 有 六 只 黑色 狮子
+- Got:    窗户 下面 有 六 只 黑色 狮子
+
+- Source: there are six quiet cows on the tree
+- Target: 树 上面 有 六 只 安静 牛
+- Got:    树 上面 有 六 只 安静 牛
+
+- Source: alice has three brown apples
+- Target: 爱丽丝 有 三 个 棕色 苹果
+- Got:    爱丽丝 有 三 个 棕色 苹果
+
+- Source: there is a white duck on the chair
+- Target: 椅子 上面 有 一 只 白色 鸭子
+- Got:    椅子 上面 有 一 只 白色 鸭子
+
+- Source: there are five black horses near the car
+- Target: 汽车 附近 有 五 只 黑色 马
+- Got:    汽车 附近 有 五 只 黑色 马
+
+- Source: george has six blue boxs
+- Target: 乔治 有 六 个 蓝色 盒子
+- Got:    乔治 有 六 个 蓝色 盒子
+
+- Source: george has six white tables
+- Target: 乔治 有 六 个 白色 桌子
+- Got:    乔治 有 六 个 白色 桌子
+
+- Source: henry has three quiet chairs
+- Target: 亨利 有 三 个 安静 椅子
+- Got:    亨利 有 三 个 安静 椅子
+
+- Source: there are four red lions under the chair
+- Target: 椅子 下面 有 四 只 红色 狮子
+- Got:    椅子 下面 有 四 只 红色 狮子
+
+- Source: alice has one black door
+- Target: 爱丽丝 有 一 个 黑色 门
+- Got:    爱丽丝 有 一 个 黑色 门
+
+- Source: charlie has six green doors
+- Target: 查理 有 六 个 绿色 门
+- Got:    查理 有 六 个 绿色 门
+
+- Source: david has one blue table
+- Target: 大卫 有 一 个 蓝色 桌子
+- Got:    大卫 有 一 个 蓝色 桌子
+
+- Source: there are five quiet dogs behind the car
+- Target: 汽车 后面 有 五 只 安静 狗
+- Got:    汽车 后面 有 五 只 安静 狗
+
+- Source: there are three white lions in front of the box
+- Target: 盒子 前面 有 三 只 白色 狮子
+- Got:    盒子 前面 有 三 只 白色 狮子
+
+- Source: there are two white bears under the box
+- Target: 盒子 下面 有 两 只 白色 熊
+- Got:    盒子 下面 有 两 只 白色 熊
+
+- Source: there are two quiet cows under the box
+- Target: 盒子 下面 有 两 只 安静 牛
+- Got:    盒子 下面 有 两 只 安静 牛
+
+- Source: george has six black windows
+- Target: 乔治 有 六 个 黑色 窗户
+- Got:    乔治 有 六 个 黑色 窗户
+
+- Source: there are three black dogs behind the apple
+- Target: 苹果 后面 有 三 只 黑色 狗
+- Got:    苹果 后面 有 三 只 黑色 狗
+
+- Source: there are six white bears next to the door
+- Target: 门 旁边 有 六 只 白色 熊
+- Got:    门 旁边 有 六 只 白色 熊
+
+- Source: david has six quiet cars
+- Target: 大卫 有 六 个 安静 汽车
+- Got:    大卫 有 六 个 安静 汽车
+
+- Source: george has four blue tables
+- Target: 乔治 有 四 个 蓝色 桌子
+- Got:    乔治 有 四 个 蓝色 桌子
+
+- Source: fiona has one black window
+- Target: 菲奥娜 有 一 个 黑色 窗户
+- Got:    菲奥娜 有 一 个 黑色 窗户
+
+- Source: emma has two blue doors
+- Target: 艾玛 有 两 个 蓝色 门
+- Got:    艾玛 有 两 个 蓝色 门
+
+- Source: there are three yellow dogs in front of the car
+- Target: 汽车 前面 有 三 只 黄色 狗
+- Got:    汽车 前面 有 三 只 黄色 狗
+
+- Source: emma has six green boxs
+- Target: 艾玛 有 六 个 绿色 盒子
+- Got:    艾玛 有 六 个 绿色 盒子
+
+- Source: bob has one quiet chair
+- Target: 鲍勃 有 一 个 安静 椅子
+- Got:    鲍勃 有 一 个 安静 椅子
+
+- Source: george has six black chairs
+- Target: 乔治 有 六 个 黑色 椅子
+- Got:    乔治 有 六 个 黑色 椅子
+
+- Source: there are two yellow bears on the box
+- Target: 盒子 上面 有 两 只 黄色 熊
+- Got:    盒子 上面 有 两 只 黄色 熊
+
+- Source: there is a quiet cow in front of the window
+- Target: 窗户 前面 有 一 只 安静 牛
+- Got:    窗户 前面 有 一 只 安静 牛
+
+- Source: bob has one yellow table
+- Target: 鲍勃 有 一 个 黄色 桌子
+- Got:    鲍勃 有 一 个 黄色 桌子
+
+- Source: there are four red ducks next to the door
+- Target: 门 旁边 有 四 只 红色 鸭子
+- Got:    门 旁边 有 四 只 红色 鸭子
+
+- Source: charlie has four yellow tables
+- Target: 查理 有 四 个 黄色 桌子
+- Got:    查理 有 四 个 黄色 桌子
+
+- Source: bob has six black trees
+- Target: 鲍勃 有 六 个 黑色 树
+- Got:    鲍勃 有 六 个 黑色 树
+
+- Source: there are four black lions in front of the box
+- Target: 盒子 前面 有 四 只 黑色 狮子
+- Got:    盒子 前面 有 四 只 黑色 狮子
+
+- Source: there is a quiet duck on the apple
+- Target: 苹果 上面 有 一 只 安静 鸭子
+- Got:    苹果 上面 有 一 只 安静 鸭子
+
+- Source: bob has four green chairs
+- Target: 鲍勃 有 四 个 绿色 椅子
+- Got:    鲍勃 有 四 个 绿色 椅子
+
+- Source: there are five green horses on the window
+- Target: 窗户 上面 有 五 只 绿色 马
+- Got:    窗户 上面 有 五 只 绿色 马
+
+- Source: david has one green table
+- Target: 大卫 有 一 个 绿色 桌子
+- Got:    大卫 有 一 个 绿色 桌子
+
+- Source: fiona has six red doors
+- Target: 菲奥娜 有 六 个 红色 门
+- Got:    菲奥娜 有 六 个 红色 门
+
+- Source: bob has four brown boxs
+- Target: 鲍勃 有 四 个 棕色 盒子
+- Got:    鲍勃 有 四 个 棕色 盒子
+
+- Source: there are four green bears in front of the tree
+- Target: 树 前面 有 四 只 绿色 熊
+- Got:    树 前面 有 四 只 绿色 熊
+
+- Source: alice has one yellow apple
+- Target: 爱丽丝 有 一 个 黄色 苹果
+- Got:    爱丽丝 有 一 个 黄色 苹果
+
+- Source: there are six yellow cats on the box
+- Target: 盒子 上面 有 六 只 黄色 猫
+- Got:    盒子 上面 有 六 只 黄色 猫
+
+- Source: alice has six green trees
+- Target: 爱丽丝 有 六 个 绿色 树
+- Got:    爱丽丝 有 六 个 绿色 树
+
+- Source: there are three green ducks near the car
+- Target: 汽车 附近 有 三 只 绿色 鸭子
+- Got:    汽车 附近 有 三 只 绿色 鸭子
+
+- Source: there are four red birds behind the chair
+- Target: 椅子 后面 有 四 只 红色 鸟
+- Got:    椅子 后面 有 四 只 红色 鸟
+
+- Source: there are three black dogs on the box
+- Target: 盒子 上面 有 三 只 黑色 狗
+- Got:    盒子 上面 有 三 只 黑色 狗
+
+- Source: alice has two brown boxs
+- Target: 爱丽丝 有 两 个 棕色 盒子
+- Got:    爱丽丝 有 两 个 棕色 盒子
+
+- Source: there are two yellow horses under the box
+- Target: 盒子 下面 有 两 只 黄色 马
+- Got:    盒子 下面 有 两 只 黄色 马
+
+- Source: bob has six green apples
+- Target: 鲍勃 有 六 个 绿色 苹果
+- Got:    鲍勃 有 六 个 绿色 苹果
+
+- Source: george has five quiet cars
+- Target: 乔治 有 五 个 安静 汽车
+- Got:    乔治 有 五 个 安静 汽车
+
+- Source: charlie has five blue chairs
+- Target: 查理 有 五 个 蓝色 椅子
+- Got:    查理 有 五 个 蓝色 椅子
+
+- Source: there are five red cats behind the car
+- Target: 汽车 后面 有 五 只 红色 猫
+- Got:    汽车 后面 有 五 只 红色 猫
+
+- Source: there is a white horse next to the apple
+- Target: 苹果 旁边 有 一 只 白色 马
+- Got:    苹果 旁边 有 一 只 白色 马
+
+- Source: charlie has four black doors
+- Target: 查理 有 四 个 黑色 门
+- Got:    查理 有 四 个 黑色 门
+
+- Source: there are five white lions behind the car
+- Target: 汽车 后面 有 五 只 白色 狮子
+- Got:    汽车 后面 有 五 只 白色 狮子
+
+- Source: there are four red ducks on the door
+- Target: 门 上面 有 四 只 红色 鸭子
+- Got:    门 上面 有 四 只 红色 鸭子
+
+- Source: emma has five green chairs
+- Target: 艾玛 有 五 个 绿色 椅子
+- Got:    艾玛 有 五 个 绿色 椅子
+
+- Source: there is a red horse in front of the tree
+- Target: 树 前面 有 一 只 红色 马
+- Got:    树 前面 有 一 只 红色 马
+
+- Source: emma has six black trees
+- Target: 艾玛 有 六 个 黑色 树
+- Got:    艾玛 有 六 个 黑色 树
+
+- Source: alice has four yellow apples
+- Target: 爱丽丝 有 四 个 黄色 苹果
+- Got:    爱丽丝 有 四 个 黄色 苹果
+
+- Source: fiona has five black trees
+- Target: 菲奥娜 有 五 个 黑色 树
+- Got:    菲奥娜 有 五 个 黑色 树
+
+- Source: there is a black lion behind the table
+- Target: 桌子 后面 有 一 只 黑色 狮子
+- Got:    桌子 后面 有 一 只 黑色 狮子
+
+- Source: alice has six quiet doors
+- Target: 爱丽丝 有 六 个 安静 门
+- Got:    爱丽丝 有 六 个 安静 门
+
+- Source: george has two red trees
+- Target: 乔治 有 两 个 红色 树
+- Got:    乔治 有 两 个 红色 树
+
+- Source: charlie has two brown tables
+- Target: 查理 有 两 个 棕色 桌子
+- Got:    查理 有 两 个 棕色 桌子
+
+- Source: there are five red horses behind the box
+- Target: 盒子 后面 有 五 只 红色 马
+- Got:    盒子 后面 有 五 只 红色 马
+
+- Source: there are three green dogs behind the table
+- Target: 桌子 后面 有 三 只 绿色 狗
+- Got:    桌子 后面 有 三 只 绿色 狗
+
+- Source: there is a red duck in front of the chair
+- Target: 椅子 前面 有 一 只 红色 鸭子
+- Got:    椅子 前面 有 一 只 红色 鸭子
+
+- Source: alice has one brown chair
+- Target: 爱丽丝 有 一 个 棕色 椅子
+- Got:    爱丽丝 有 一 个 棕色 椅子
+
+- Source: there are two brown cats on the chair
+- Target: 椅子 上面 有 两 只 棕色 猫
+- Got:    椅子 上面 有 两 只 棕色 猫
+
+- Source: there are two white bears near the table
+- Target: 桌子 附近 有 两 只 白色 熊
+- Got:    桌子 附近 有 两 只 白色 熊
+
+- Source: there are three quiet bears under the window
+- Target: 窗户 下面 有 三 只 安静 熊
+- Got:    窗户 下面 有 三 只 安静 熊
+
+- Source: henry has one quiet chair
+- Target: 亨利 有 一 个 安静 椅子
+- Got:    亨利 有 一 个 安静 椅子
+
+- Source: alice has five blue boxs
+- Target: 爱丽丝 有 五 个 蓝色 盒子
+- Got:    爱丽丝 有 五 个 蓝色 盒子
+
+- Source: there are two blue lions near the box
+- Target: 盒子 附近 有 两 只 蓝色 狮子
+- Got:    盒子 附近 有 两 只 蓝色 狮子
+
+- Source: there are six white cows under the door
+- Target: 门 下面 有 六 只 白色 牛
+- Got:    门 下面 有 六 只 白色 牛
+
+- Source: george has four black windows
+- Target: 乔治 有 四 个 黑色 窗户
+- Got:    乔治 有 四 个 黑色 窗户
+
+- Source: there are four quiet horses in front of the car
+- Target: 汽车 前面 有 四 只 安静 马
+- Got:    汽车 前面 有 四 只 安静 马
+
+- Source: david has one blue door
+- Target: 大卫 有 一 个 蓝色 门
+- Got:    大卫 有 一 个 蓝色 门
+
+- Source: emma has three green doors
+- Target: 艾玛 有 三 个 绿色 门
+- Got:    艾玛 有 三 个 绿色 门
+
+- Source: there are two black ducks on the car
+- Target: 汽车 上面 有 两 只 黑色 鸭子
+- Got:    汽车 上面 有 两 只 黑色 鸭子
+
+- Source: there are three blue ducks in front of the table
+- Target: 桌子 前面 有 三 只 蓝色 鸭子
+- Got:    桌子 前面 有 三 只 蓝色 鸭子
+
+- Source: there are three red bears on the apple
+- Target: 苹果 上面 有 三 只 红色 熊
+- Got:    苹果 上面 有 三 只 红色 熊
+
+- Source: charlie has three yellow tables
+- Target: 查理 有 三 个 黄色 桌子
+- Got:    查理 有 三 个 黄色 桌子
+
+- Source: there is a brown duck in front of the door
+- Target: 门 前面 有 一 只 棕色 鸭子
+- Got:    门 前面 有 一 只 棕色 鸭子
+
+- Source: emma has three red tables
+- Target: 艾玛 有 三 个 红色 桌子
+- Got:    艾玛 有 三 个 红色 桌子
+
+- Source: george has two brown trees
+- Target: 乔治 有 两 个 棕色 树
+- Got:    乔治 有 两 个 棕色 树
+
+- Source: there are four yellow dogs near the window
+- Target: 窗户 附近 有 四 只 黄色 狗
+- Got:    窗户 附近 有 四 只 黄色 狗
+
+- Source: there are three black cows near the chair
+- Target: 椅子 附近 有 三 只 黑色 牛
+- Got:    椅子 附近 有 三 只 黑色 牛
+
+- Source: emma has four blue tables
+- Target: 艾玛 有 四 个 蓝色 桌子
+- Got:    艾玛 有 四 个 蓝色 桌子
+
+- Source: henry has five green apples
+- Target: 亨利 有 五 个 绿色 苹果
+- Got:    亨利 有 五 个 绿色 苹果
+
+- Source: david has six red chairs
+- Target: 大卫 有 六 个 红色 椅子
+- Got:    大卫 有 六 个 红色 椅子
+
+- Source: george has four blue cars
+- Target: 乔治 有 四 个 蓝色 汽车
+- Got:    乔治 有 四 个 蓝色 汽车
+
+- Source: fiona has two blue cars
+- Target: 菲奥娜 有 两 个 蓝色 汽车
+- Got:    菲奥娜 有 两 个 蓝色 汽车
+
+- Source: alice has five red boxs
+- Target: 爱丽丝 有 五 个 红色 盒子
+- Got:    爱丽丝 有 五 个 红色 盒子
+
+- Source: there are three green lions on the door
+- Target: 门 上面 有 三 只 绿色 狮子
+- Got:    门 上面 有 三 只 绿色 狮子
+
+- Source: bob has six yellow doors
+- Target: 鲍勃 有 六 个 黄色 门
+- Got:    鲍勃 有 六 个 黄色 门
+
+- Source: there are six brown lions under the car
+- Target: 汽车 下面 有 六 只 棕色 狮子
+- Got:    汽车 下面 有 六 只 棕色 狮子
+
+- Source: there is a quiet bird near the car
+- Target: 汽车 附近 有 一 只 安静 鸟
+- Got:    汽车 附近 有 一 只 安静 鸟
+
+- Source: there are five black cows behind the apple
+- Target: 苹果 后面 有 五 只 黑色 牛
+- Got:    苹果 后面 有 五 只 黑色 牛
+
+- Source: henry has three white doors
+- Target: 亨利 有 三 个 白色 门
+- Got:    亨利 有 三 个 白色 门
+
+- Source: david has four white cars
+- Target: 大卫 有 四 个 白色 汽车
+- Got:    大卫 有 四 个 白色 汽车
+
+- Source: there are three quiet horses in front of the box
+- Target: 盒子 前面 有 三 只 安静 马
+- Got:    盒子 前面 有 三 只 安静 马
+
+- Source: there are five yellow ducks behind the chair
+- Target: 椅子 后面 有 五 只 黄色 鸭子
+- Got:    椅子 后面 有 五 只 黄色 鸭子
+
+- Source: there are three green cows behind the door
+- Target: 门 后面 有 三 只 绿色 牛
+- Got:    门 后面 有 三 只 绿色 牛
+
+- Source: emma has six brown chairs
+- Target: 艾玛 有 六 个 棕色 椅子
+- Got:    艾玛 有 六 个 棕色 椅子
+
+- Source: there are four red birds under the apple
+- Target: 苹果 下面 有 四 只 红色 鸟
+- Got:    苹果 下面 有 四 只 红色 鸟
+
+- Source: david has four brown cars
+- Target: 大卫 有 四 个 棕色 汽车
+- Got:    大卫 有 四 个 棕色 汽车
+
+- Source: henry has two red doors
+- Target: 亨利 有 两 个 红色 门
+- Got:    亨利 有 两 个 红色 门
+
+- Source: there are five brown cats near the car
+- Target: 汽车 附近 有 五 只 棕色 猫
+- Got:    汽车 附近 有 五 只 棕色 猫
+
+- Source: charlie has six green windows
+- Target: 查理 有 六 个 绿色 窗户
+- Got:    查理 有 六 个 绿色 窗户
+
+- Source: there are four brown horses in front of the table
+- Target: 桌子 前面 有 四 只 棕色 马
+- Got:    桌子 前面 有 四 只 棕色 马
+
+- Source: there are six yellow ducks next to the table
+- Target: 桌子 旁边 有 六 只 黄色 鸭子
+- Got:    桌子 旁边 有 六 只 黄色 鸭子
+
+- Source: there is a white cat in front of the door
+- Target: 门 前面 有 一 只 白色 猫
+- Got:    门 前面 有 一 只 白色 猫
+
+- Source: fiona has two quiet boxs
+- Target: 菲奥娜 有 两 个 安静 盒子
+- Got:    菲奥娜 有 两 个 安静 盒子
+
+- Source: there are five quiet ducks near the car
+- Target: 汽车 附近 有 五 只 安静 鸭子
+- Got:    汽车 附近 有 五 只 安静 鸭子
+
+- Source: there are two white ducks behind the box
+- Target: 盒子 后面 有 两 只 白色 鸭子
+- Got:    盒子 后面 有 两 只 白色 鸭子
+
+- Source: david has four black boxs
+- Target: 大卫 有 四 个 黑色 盒子
+- Got:    大卫 有 四 个 黑色 盒子
+
+- Source: there are six red horses next to the table
+- Target: 桌子 旁边 有 六 只 红色 马
+- Got:    桌子 旁边 有 六 只 红色 马
+
+- Source: there are four black birds next to the window
+- Target: 窗户 旁边 有 四 只 黑色 鸟
+- Got:    窗户 旁边 有 四 只 黑色 鸟
+
+- Source: charlie has one red window
+- Target: 查理 有 一 个 红色 窗户
+- Got:    查理 有 一 个 红色 窗户
+
+- Source: there is a yellow bear under the table
+- Target: 桌子 下面 有 一 只 黄色 熊
+- Got:    桌子 下面 有 一 只 黄色 熊
+
+- Source: david has two yellow doors
+- Target: 大卫 有 两 个 黄色 门
+- Got:    大卫 有 两 个 黄色 门
+
+- Source: henry has three green trees
+- Target: 亨利 有 三 个 绿色 树
+- Got:    亨利 有 三 个 绿色 树
+
+- Source: there are three quiet ducks near the car
+- Target: 汽车 附近 有 三 只 安静 鸭子
+- Got:    汽车 附近 有 三 只 安静 鸭子
+
+- Source: bob has six yellow cars
+- Target: 鲍勃 有 六 个 黄色 汽车
+- Got:    鲍勃 有 六 个 黄色 汽车
+
+- Source: george has five blue windows
+- Target: 乔治 有 五 个 蓝色 窗户
+- Got:    乔治 有 五 个 蓝色 窗户
+
+- Source: there are two white dogs in front of the apple
+- Target: 苹果 前面 有 两 只 白色 狗
+- Got:    苹果 前面 有 两 只 白色 狗
+
+- Source: bob has three red boxs
+- Target: 鲍勃 有 三 个 红色 盒子
+- Got:    鲍勃 有 三 个 红色 盒子
+
+- Source: there are five blue ducks in front of the table
+- Target: 桌子 前面 有 五 只 蓝色 鸭子
+- Got:    桌子 前面 有 五 只 蓝色 鸭子
+
+- Source: there are four quiet ducks under the tree
+- Target: 树 下面 有 四 只 安静 鸭子
+- Got:    树 下面 有 四 只 安静 鸭子
+
+- Source: there are four red bears near the tree
+- Target: 树 附近 有 四 只 红色 熊
+- Got:    树 附近 有 四 只 红色 熊
+
+- Source: emma has three black cars
+- Target: 艾玛 有 三 个 黑色 汽车
+- Got:    艾玛 有 三 个 黑色 汽车
+
+- Source: fiona has six red trees
+- Target: 菲奥娜 有 六 个 红色 树
+- Got:    菲奥娜 有 六 个 红色 树
+
+- Source: george has one red tree
+- Target: 乔治 有 一 个 红色 树
+- Got:    乔治 有 一 个 红色 树
+
+- Source: there are four white bears next to the window
+- Target: 窗户 旁边 有 四 只 白色 熊
+- Got:    窗户 旁边 有 四 只 白色 熊
+
+- Source: fiona has six brown trees
+- Target: 菲奥娜 有 六 个 棕色 树
+- Got:    菲奥娜 有 六 个 棕色 树
+
+- Source: there are six green dogs behind the door
+- Target: 门 后面 有 六 只 绿色 狗
+- Got:    门 后面 有 六 只 绿色 狗
+
+- Source: there is a yellow horse next to the window
+- Target: 窗户 旁边 有 一 只 黄色 马
+- Got:    窗户 旁边 有 一 只 黄色 马
+
+- Source: there is a black horse near the table
+- Target: 桌子 附近 有 一 只 黑色 马
+- Got:    桌子 附近 有 一 只 黑色 马
+
+- Source: bob has three blue chairs
+- Target: 鲍勃 有 三 个 蓝色 椅子
+- Got:    鲍勃 有 三 个 蓝色 椅子
+
+- Source: there are four black lions on the car
+- Target: 汽车 上面 有 四 只 黑色 狮子
+- Got:    汽车 上面 有 四 只 黑色 狮子
+
+- Source: fiona has two blue chairs
+- Target: 菲奥娜 有 两 个 蓝色 椅子
+- Got:    菲奥娜 有 两 个 蓝色 椅子
+
+- Source: there are two red cows on the box
+- Target: 盒子 上面 有 两 只 红色 牛
+- Got:    盒子 上面 有 两 只 红色 牛
+
+- Source: bob has three black trees
+- Target: 鲍勃 有 三 个 黑色 树
+- Got:    鲍勃 有 三 个 黑色 树
+
+- Source: there are five blue dogs in front of the door
+- Target: 门 前面 有 五 只 蓝色 狗
+- Got:    门 前面 有 五 只 蓝色 狗
+
+- Source: there is a green cow on the table
+- Target: 桌子 上面 有 一 只 绿色 牛
+- Got:    桌子 上面 有 一 只 绿色 牛
+
+- Source: there is a green bird in front of the car
+- Target: 汽车 前面 有 一 只 绿色 鸟
+- Got:    汽车 前面 有 一 只 绿色 鸟
+
+- Source: emma has one blue apple
+- Target: 艾玛 有 一 个 蓝色 苹果
+- Got:    艾玛 有 一 个 蓝色 苹果
+
+- Source: there is a blue bird under the box
+- Target: 盒子 下面 有 一 只 蓝色 鸟
+- Got:    盒子 下面 有 一 只 蓝色 鸟
+
+- Source: bob has three brown apples
+- Target: 鲍勃 有 三 个 棕色 苹果
+- Got:    鲍勃 有 三 个 棕色 苹果
+
+- Source: there are two white cows under the apple
+- Target: 苹果 下面 有 两 只 白色 牛
+- Got:    苹果 下面 有 两 只 白色 牛
+
+- Source: bob has four red chairs
+- Target: 鲍勃 有 四 个 红色 椅子
+- Got:    鲍勃 有 四 个 红色 椅子
+
+- Source: henry has five black tables
+- Target: 亨利 有 五 个 黑色 桌子
+- Got:    亨利 有 五 个 黑色 桌子
+
+- Source: david has three red chairs
+- Target: 大卫 有 三 个 红色 椅子
+- Got:    大卫 有 三 个 红色 椅子
+
+- Source: there is a quiet bird on the window
+- Target: 窗户 上面 有 一 只 安静 鸟
+- Got:    窗户 上面 有 一 只 安静 鸟
+
+- Source: fiona has two yellow windows
+- Target: 菲奥娜 有 两 个 黄色 窗户
+- Got:    菲奥娜 有 两 个 黄色 窗户
+
+- Source: there are two red birds behind the car
+- Target: 汽车 后面 有 两 只 红色 鸟
+- Got:    汽车 后面 有 两 只 红色 鸟
+
+- Source: there are four brown horses under the window
+- Target: 窗户 下面 有 四 只 棕色 马
+- Got:    窗户 下面 有 四 只 棕色 马
+
+- Source: there are two green horses under the door
+- Target: 门 下面 有 两 只 绿色 马
+- Got:    门 下面 有 两 只 绿色 马
+
+- Source: emma has five black trees
+- Target: 艾玛 有 五 个 黑色 树
+- Got:    艾玛 有 五 个 黑色 树
+
+- Source: there are six green birds near the window
+- Target: 窗户 附近 有 六 只 绿色 鸟
+- Got:    窗户 附近 有 六 只 绿色 鸟
+
+- Source: there are two yellow cows on the tree
+- Target: 树 上面 有 两 只 黄色 牛
+- Got:    树 上面 有 两 只 黄色 牛
+
+- Source: emma has six white cars
+- Target: 艾玛 有 六 个 白色 汽车
+- Got:    艾玛 有 六 个 白色 汽车
+
+- Source: there are four quiet dogs on the tree
+- Target: 树 上面 有 四 只 安静 狗
+- Got:    树 上面 有 四 只 安静 狗
+
+- Source: fiona has two brown trees
+- Target: 菲奥娜 有 两 个 棕色 树
+- Got:    菲奥娜 有 两 个 棕色 树
+
+- Source: fiona has five brown tables
+- Target: 菲奥娜 有 五 个 棕色 桌子
+- Got:    菲奥娜 有 五 个 棕色 桌子
+
+- Source: henry has four green cars
+- Target: 亨利 有 四 个 绿色 汽车
+- Got:    亨利 有 四 个 绿色 汽车
+
+- Source: bob has two brown doors
+- Target: 鲍勃 有 两 个 棕色 门
+- Got:    鲍勃 有 两 个 棕色 门
+
+- Source: there are five blue birds behind the chair
+- Target: 椅子 后面 有 五 只 蓝色 鸟
+- Got:    椅子 后面 有 五 只 蓝色 鸟
+
+- Source: george has one blue table
+- Target: 乔治 有 一 个 蓝色 桌子
+- Got:    乔治 有 一 个 蓝色 桌子
+
+- Source: charlie has four red cars
+- Target: 查理 有 四 个 红色 汽车
+- Got:    查理 有 四 个 红色 汽车
+
+- Source: there are four green bears next to the chair
+- Target: 椅子 旁边 有 四 只 绿色 熊
+- Got:    椅子 旁边 有 四 只 绿色 熊
+
+- Source: emma has two white windows
+- Target: 艾玛 有 两 个 白色 窗户
+- Got:    艾玛 有 两 个 白色 窗户
+
+- Source: there are three green cows behind the tree
+- Target: 树 后面 有 三 只 绿色 牛
+- Got:    树 后面 有 三 只 绿色 牛
+
+- Source: there are four brown bears near the chair
+- Target: 椅子 附近 有 四 只 棕色 熊
+- Got:    椅子 附近 有 四 只 棕色 熊
+
+- Source: emma has two green apples
+- Target: 艾玛 有 两 个 绿色 苹果
+- Got:    艾玛 有 两 个 绿色 苹果
+
+- Source: there is a green lion in front of the tree
+- Target: 树 前面 有 一 只 绿色 狮子
+- Got:    树 前面 有 一 只 绿色 狮子
+
+- Source: there is a white bear in front of the door
+- Target: 门 前面 有 一 只 白色 熊
+- Got:    门 前面 有 一 只 白色 熊
+
+- Source: david has two white boxs
+- Target: 大卫 有 两 个 白色 盒子
+- Got:    大卫 有 两 个 白色 盒子
+
+- Source: george has one green window
+- Target: 乔治 有 一 个 绿色 窗户
+- Got:    乔治 有 一 个 绿色 窗户
+
+- Source: david has three yellow tables
+- Target: 大卫 有 三 个 黄色 桌子
+- Got:    大卫 有 三 个 黄色 桌子
+
+- Source: fiona has three quiet tables
+- Target: 菲奥娜 有 三 个 安静 桌子
+- Got:    菲奥娜 有 三 个 安静 桌子
+
+- Source: there are five white bears on the table
+- Target: 桌子 上面 有 五 只 白色 熊
+- Got:    桌子 上面 有 五 只 白色 熊
+
+- Source: there are three white horses next to the apple
+- Target: 苹果 旁边 有 三 只 白色 马
+- Got:    苹果 旁边 有 三 只 白色 马
+
+- Source: there are five quiet dogs under the box
+- Target: 盒子 下面 有 五 只 安静 狗
+- Got:    盒子 下面 有 五 只 安静 狗
+
+- Source: charlie has five black apples
+- Target: 查理 有 五 个 黑色 苹果
+- Got:    查理 有 五 个 黑色 苹果
+
+- Source: there is a white bird next to the box
+- Target: 盒子 旁边 有 一 只 白色 鸟
+- Got:    盒子 旁边 有 一 只 白色 鸟
+
+- Source: there are six white cows near the chair
+- Target: 椅子 附近 有 六 只 白色 牛
+- Got:    椅子 附近 有 六 只 白色 牛
+
+- Source: bob has four blue boxs
+- Target: 鲍勃 有 四 个 蓝色 盒子
+- Got:    鲍勃 有 四 个 蓝色 盒子
+
+- Source: there is a black bird near the door
+- Target: 门 附近 有 一 只 黑色 鸟
+- Got:    门 附近 有 一 只 黑色 鸟
+
+- Source: david has one green chair
+- Target: 大卫 有 一 个 绿色 椅子
+- Got:    大卫 有 一 个 绿色 椅子
+
+- Source: there is a white lion behind the table
+- Target: 桌子 后面 有 一 只 白色 狮子
+- Got:    桌子 后面 有 一 只 白色 狮子
+
+- Source: george has three black apples
+- Target: 乔治 有 三 个 黑色 苹果
+- Got:    乔治 有 三 个 黑色 苹果
+
+- Source: fiona has four brown boxs
+- Target: 菲奥娜 有 四 个 棕色 盒子
+- Got:    菲奥娜 有 四 个 棕色 盒子
+
+- Source: david has five yellow trees
+- Target: 大卫 有 五 个 黄色 树
+- Got:    大卫 有 五 个 黄色 树
+
+- Source: there are three quiet lions next to the window
+- Target: 窗户 旁边 有 三 只 安静 狮子
+- Got:    窗户 旁边 有 三 只 安静 狮子
+
+- Source: there are three red cows on the tree
+- Target: 树 上面 有 三 只 红色 牛
+- Got:    树 上面 有 三 只 红色 牛
+
+- Source: there is a red dog next to the box
+- Target: 盒子 旁边 有 一 只 红色 狗
+- Got:    盒子 旁边 有 一 只 红色 狗
+
+- Source: henry has six black boxs
+- Target: 亨利 有 六 个 黑色 盒子
+- Got:    亨利 有 六 个 黑色 盒子
+
+- Source: george has three red trees
+- Target: 乔治 有 三 个 红色 树
+- Got:    乔治 有 三 个 红色 树
+
+- Source: henry has four red apples
+- Target: 亨利 有 四 个 红色 苹果
+- Got:    亨利 有 四 个 红色 苹果
+
+- Source: there are six green bears near the chair
+- Target: 椅子 附近 有 六 只 绿色 熊
+- Got:    椅子 附近 有 六 只 绿色 熊
+
+- Source: bob has one green window
+- Target: 鲍勃 有 一 个 绿色 窗户
+- Got:    鲍勃 有 一 个 绿色 窗户
+
+- Source: george has five green trees
+- Target: 乔治 有 五 个 绿色 树
+- Got:    乔治 有 五 个 绿色 树
+
+- Source: fiona has two quiet cars
+- Target: 菲奥娜 有 两 个 安静 汽车
+- Got:    菲奥娜 有 两 个 安静 汽车
+
+- Source: emma has three blue trees
+- Target: 艾玛 有 三 个 蓝色 树
+- Got:    艾玛 有 三 个 蓝色 树
+
+- Source: there are three black horses behind the chair
+- Target: 椅子 后面 有 三 只 黑色 马
+- Got:    椅子 后面 有 三 只 黑色 马
+
+- Source: there are three green birds next to the door
+- Target: 门 旁边 有 三 只 绿色 鸟
+- Got:    门 旁边 有 三 只 绿色 鸟
+
+- Source: george has two blue tables
+- Target: 乔治 有 两 个 蓝色 桌子
+- Got:    乔治 有 两 个 蓝色 桌子
+
+- Source: alice has three red doors
+- Target: 爱丽丝 有 三 个 红色 门
+- Got:    爱丽丝 有 三 个 红色 门
+
+- Source: emma has six brown windows
+- Target: 艾玛 有 六 个 棕色 窗户
+- Got:    艾玛 有 六 个 棕色 窗户
+
+- Source: fiona has five quiet doors
+- Target: 菲奥娜 有 五 个 安静 门
+- Got:    菲奥娜 有 五 个 安静 门
+
+- Source: there are two yellow horses next to the apple
+- Target: 苹果 旁边 有 两 只 黄色 马
+- Got:    苹果 旁边 有 两 只 黄色 马
+
+- Source: there are four green birds behind the chair
+- Target: 椅子 后面 有 四 只 绿色 鸟
+- Got:    椅子 后面 有 四 只 绿色 鸟
+
+- Source: there are four brown ducks on the window
+- Target: 窗户 上面 有 四 只 棕色 鸭子
+- Got:    窗户 上面 有 四 只 棕色 鸭子
+
+- Source: there is a black duck on the apple
+- Target: 苹果 上面 有 一 只 黑色 鸭子
+- Got:    苹果 上面 有 一 只 黑色 鸭子
+
+- Source: emma has five brown trees
+- Target: 艾玛 有 五 个 棕色 树
+- Got:    艾玛 有 五 个 棕色 树
+
+- Source: there are five quiet birds under the window
+- Target: 窗户 下面 有 五 只 安静 鸟
+- Got:    窗户 下面 有 五 只 安静 鸟
+
+- Source: alice has six green chairs
+- Target: 爱丽丝 有 六 个 绿色 椅子
+- Got:    爱丽丝 有 六 个 绿色 椅子
+
+- Source: george has one blue apple
+- Target: 乔治 有 一 个 蓝色 苹果
+- Got:    乔治 有 一 个 蓝色 苹果
+
+- Source: there are five brown dogs next to the chair
+- Target: 椅子 旁边 有 五 只 棕色 狗
+- Got:    椅子 旁边 有 五 只 棕色 狗
+
+- Source: emma has three red boxs
+- Target: 艾玛 有 三 个 红色 盒子
+- Got:    艾玛 有 三 个 红色 盒子
+
+- Source: fiona has two red apples
+- Target: 菲奥娜 有 两 个 红色 苹果
+- Got:    菲奥娜 有 两 个 红色 苹果
+
+- Source: there are four brown birds behind the window
+- Target: 窗户 后面 有 四 只 棕色 鸟
+- Got:    窗户 后面 有 四 只 棕色 鸟
+
+- Source: george has five red cars
+- Target: 乔治 有 五 个 红色 汽车
+- Got:    乔治 有 五 个 红色 汽车
+
+- Source: there are six yellow cats in front of the apple
+- Target: 苹果 前面 有 六 只 黄色 猫
+- Got:    苹果 前面 有 六 只 黄色 猫
+
+- Source: henry has four green boxs
+- Target: 亨利 有 四 个 绿色 盒子
+- Got:    亨利 有 四 个 绿色 盒子
+
+- Source: there is a blue lion on the chair
+- Target: 椅子 上面 有 一 只 蓝色 狮子
+- Got:    椅子 上面 有 一 只 蓝色 狮子
+
+- Source: there is a green cat near the box
+- Target: 盒子 附近 有 一 只 绿色 猫
+- Got:    盒子 附近 有 一 只 绿色 猫
+
+- Source: there are six red cows in front of the window
+- Target: 窗户 前面 有 六 只 红色 牛
+- Got:    窗户 前面 有 六 只 红色 牛
+
+- Source: there are two blue dogs behind the table
+- Target: 桌子 后面 有 两 只 蓝色 狗
+- Got:    桌子 后面 有 两 只 蓝色 狗
+
+- Source: there are four black birds next to the box
+- Target: 盒子 旁边 有 四 只 黑色 鸟
+- Got:    盒子 旁边 有 四 只 黑色 鸟
+
+- Source: david has six red windows
+- Target: 大卫 有 六 个 红色 窗户
+- Got:    大卫 有 六 个 红色 窗户
+
+- Source: emma has five red doors
+- Target: 艾玛 有 五 个 红色 门
+- Got:    艾玛 有 五 个 红色 门
+
+- Source: there are two black birds next to the door
+- Target: 门 旁边 有 两 只 黑色 鸟
+- Got:    门 旁边 有 两 只 黑色 鸟
+
+- Source: henry has four red trees
+- Target: 亨利 有 四 个 红色 树
+- Got:    亨利 有 四 个 红色 树
+
+- Source: there are six yellow ducks near the car
+- Target: 汽车 附近 有 六 只 黄色 鸭子
+- Got:    汽车 附近 有 六 只 黄色 鸭子
+
+- Source: david has six black apples
+- Target: 大卫 有 六 个 黑色 苹果
+- Got:    大卫 有 六 个 黑色 苹果
+
+- Source: fiona has three green chairs
+- Target: 菲奥娜 有 三 个 绿色 椅子
+- Got:    菲奥娜 有 三 个 绿色 椅子
+
+- Source: emma has five red chairs
+- Target: 艾玛 有 五 个 红色 椅子
+- Got:    艾玛 有 五 个 红色 椅子
+
+- Source: david has five green tables
+- Target: 大卫 有 五 个 绿色 桌子
+- Got:    大卫 有 五 个 绿色 桌子
+
+- Source: emma has five blue boxs
+- Target: 艾玛 有 五 个 蓝色 盒子
+- Got:    艾玛 有 五 个 蓝色 盒子
+
+- Source: there are three yellow birds behind the chair
+- Target: 椅子 后面 有 三 只 黄色 鸟
+- Got:    椅子 后面 有 三 只 黄色 鸟
+
+- Source: there are four blue cats in front of the table
+- Target: 桌子 前面 有 四 只 蓝色 猫
+- Got:    桌子 前面 有 四 只 蓝色 猫
+
+- Source: there are six black birds in front of the box
+- Target: 盒子 前面 有 六 只 黑色 鸟
+- Got:    盒子 前面 有 六 只 黑色 鸟
+
+- Source: there are three brown birds on the chair
+- Target: 椅子 上面 有 三 只 棕色 鸟
+- Got:    椅子 上面 有 三 只 棕色 鸟
+
+- Source: fiona has five blue windows
+- Target: 菲奥娜 有 五 个 蓝色 窗户
+- Got:    菲奥娜 有 五 个 蓝色 窗户
+
+- Source: alice has one yellow door
+- Target: 爱丽丝 有 一 个 黄色 门
+- Got:    爱丽丝 有 一 个 黄色 门
+
+- Source: fiona has four brown trees
+- Target: 菲奥娜 有 四 个 棕色 树
+- Got:    菲奥娜 有 四 个 棕色 树
+
+- Source: there are six red ducks next to the tree
+- Target: 树 旁边 有 六 只 红色 鸭子
+- Got:    树 旁边 有 六 只 红色 鸭子
+
+- Source: fiona has six yellow apples
+- Target: 菲奥娜 有 六 个 黄色 苹果
+- Got:    菲奥娜 有 六 个 黄色 苹果
+
+- Source: there are two blue horses behind the tree
+- Target: 树 后面 有 两 只 蓝色 马
+- Got:    树 后面 有 两 只 蓝色 马
+
+- Source: there are five green bears next to the box
+- Target: 盒子 旁边 有 五 只 绿色 熊
+- Got:    盒子 旁边 有 五 只 绿色 熊
+
+- Source: henry has three black chairs
+- Target: 亨利 有 三 个 黑色 椅子
+- Got:    亨利 有 三 个 黑色 椅子
+
+- Source: there are three blue dogs behind the door
+- Target: 门 后面 有 三 只 蓝色 狗
+- Got:    门 后面 有 三 只 蓝色 狗
+
+- Source: there are five blue cows next to the chair
+- Target: 椅子 旁边 有 五 只 蓝色 牛
+- Got:    椅子 旁边 有 五 只 蓝色 牛
+
+- Source: there are two quiet cats in front of the car
+- Target: 汽车 前面 有 两 只 安静 猫
+- Got:    汽车 前面 有 两 只 安静 猫
+
+- Source: emma has three blue cars
+- Target: 艾玛 有 三 个 蓝色 汽车
+- Got:    艾玛 有 三 个 蓝色 汽车
+
+- Source: there are six black horses near the chair
+- Target: 椅子 附近 有 六 只 黑色 马
+- Got:    椅子 附近 有 六 只 黑色 马
+
+- Source: bob has one blue apple
+- Target: 鲍勃 有 一 个 蓝色 苹果
+- Got:    鲍勃 有 一 个 蓝色 苹果
+
+- Source: there are five red dogs near the box
+- Target: 盒子 附近 有 五 只 红色 狗
+- Got:    盒子 附近 有 五 只 红色 狗
+
+- Source: there is a green cow in front of the door
+- Target: 门 前面 有 一 只 绿色 牛
+- Got:    门 前面 有 一 只 绿色 牛
+
+- Source: there are five white birds on the chair
+- Target: 椅子 上面 有 五 只 白色 鸟
+- Got:    椅子 上面 有 五 只 白色 鸟
+
+- Source: there are six brown cows next to the apple
+- Target: 苹果 旁边 有 六 只 棕色 牛
+- Got:    苹果 旁边 有 六 只 棕色 牛
+
+- Source: alice has six black windows
+- Target: 爱丽丝 有 六 个 黑色 窗户
+- Got:    爱丽丝 有 六 个 黑色 窗户
+
+- Source: george has two quiet boxs
+- Target: 乔治 有 两 个 安静 盒子
+- Got:    乔治 有 两 个 安静 盒子
+
+- Source: there is a white cow in front of the window
+- Target: 窗户 前面 有 一 只 白色 牛
+- Got:    窗户 前面 有 一 只 白色 牛
+
+- Source: there are two yellow cats behind the tree
+- Target: 树 后面 有 两 只 黄色 猫
+- Got:    树 后面 有 两 只 黄色 猫
+
+- Source: george has one black chair
+- Target: 乔治 有 一 个 黑色 椅子
+- Got:    乔治 有 一 个 黑色 椅子
+
+- Source: george has one black car
+- Target: 乔治 有 一 个 黑色 汽车
+- Got:    乔治 有 一 个 黑色 汽车
+
+- Source: there are two white birds behind the table
+- Target: 桌子 后面 有 两 只 白色 鸟
+- Got:    桌子 后面 有 两 只 白色 鸟
+
+- Source: there are six red dogs near the apple
+- Target: 苹果 附近 有 六 只 红色 狗
+- Got:    苹果 附近 有 六 只 红色 狗
+
+- Source: emma has five quiet trees
+- Target: 艾玛 有 五 个 安静 树
+- Got:    艾玛 有 五 个 安静 树
+
+- Source: there are four white horses next to the chair
+- Target: 椅子 旁边 有 四 只 白色 马
+- Got:    椅子 旁边 有 四 只 白色 马
+
+- Source: there are four black dogs next to the door
+- Target: 门 旁边 有 四 只 黑色 狗
+- Got:    门 旁边 有 四 只 黑色 狗
+
+- Source: henry has five blue cars
+- Target: 亨利 有 五 个 蓝色 汽车
+- Got:    亨利 有 五 个 蓝色 汽车
+
+- Source: henry has six quiet cars
+- Target: 亨利 有 六 个 安静 汽车
+- Got:    亨利 有 六 个 安静 汽车
+
+- Source: fiona has six blue tables
+- Target: 菲奥娜 有 六 个 蓝色 桌子
+- Got:    菲奥娜 有 六 个 蓝色 桌子
+
+- Source: charlie has two black tables
+- Target: 查理 有 两 个 黑色 桌子
+- Got:    查理 有 两 个 黑色 桌子
+
+- Source: there are five red lions in front of the car
+- Target: 汽车 前面 有 五 只 红色 狮子
+- Got:    汽车 前面 有 五 只 红色 狮子
+
+- Source: henry has two white chairs
+- Target: 亨利 有 两 个 白色 椅子
+- Got:    亨利 有 两 个 白色 椅子
+
+- Source: david has five white apples
+- Target: 大卫 有 五 个 白色 苹果
+- Got:    大卫 有 五 个 白色 苹果
+
+- Source: there are two green horses next to the door
+- Target: 门 旁边 有 两 只 绿色 马
+- Got:    门 旁边 有 两 只 绿色 马
+
+- Source: there are four yellow dogs next to the tree
+- Target: 树 旁边 有 四 只 黄色 狗
+- Got:    树 旁边 有 四 只 黄色 狗
+
+- Source: george has five yellow tables
+- Target: 乔治 有 五 个 黄色 桌子
+- Got:    乔治 有 五 个 黄色 桌子
+
+- Source: emma has three brown doors
+- Target: 艾玛 有 三 个 棕色 门
+- Got:    艾玛 有 三 个 棕色 门
+
+- Source: there are four white bears under the car
+- Target: 汽车 下面 有 四 只 白色 熊
+- Got:    汽车 下面 有 四 只 白色 熊
+
+- Source: henry has two black boxs
+- Target: 亨利 有 两 个 黑色 盒子
+- Got:    亨利 有 两 个 黑色 盒子
+
+- Source: henry has six quiet doors
+- Target: 亨利 有 六 个 安静 门
+- Got:    亨利 有 六 个 安静 门
+
+- Source: there are six quiet cats in front of the car
+- Target: 汽车 前面 有 六 只 安静 猫
+- Got:    汽车 前面 有 六 只 安静 猫
+
+- Source: george has one yellow table
+- Target: 乔治 有 一 个 黄色 桌子
+- Got:    乔治 有 一 个 黄色 桌子
+
+- Source: alice has two blue boxs
+- Target: 爱丽丝 有 两 个 蓝色 盒子
+- Got:    爱丽丝 有 两 个 蓝色 盒子
+
+- Source: fiona has two blue tables
+- Target: 菲奥娜 有 两 个 蓝色 桌子
+- Got:    菲奥娜 有 两 个 蓝色 桌子
+
+- Source: there are two brown bears behind the tree
+- Target: 树 后面 有 两 只 棕色 熊
+- Got:    树 后面 有 两 只 棕色 熊
+
+- Source: fiona has five quiet trees
+- Target: 菲奥娜 有 五 个 安静 树
+- Got:    菲奥娜 有 五 个 安静 树
+
+Exact Match Acc = 100.00%
+BLEU Score = NLTK module not installed
