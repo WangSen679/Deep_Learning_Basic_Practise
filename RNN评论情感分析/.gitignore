@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large model weight files (>100MB cannot be pushed to GitHub)
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+
+# Keep small best_transformer_model.pt if needed
+!data/best_transformer_model.pt
